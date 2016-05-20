@@ -1,4 +1,9 @@
+This script is publicly hosted on [New Relic's PHP docs](https://docs.newrelic.com/docs/agents/php-agent/advanced-installation/php-agent-installation-non-standard-php-advanced#manual-installation-script)
+
+
+
 PHP-manual-install-script
+
 ===================
 
 New Relic PHP Manual installation utility
